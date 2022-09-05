@@ -1,0 +1,648 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Punch Bag",
+      "quantityPerUnit": "1",
+      "unitPrice": "34",
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "VitaminB9",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": "21",
+      "unitsInStock": 17
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Whey Protein",
+      "quantityPerUnit": "2.2 kg",
+      "unitPrice": "222",
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Abdominal Roller",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": "21",
+      "unitsInStock": 0
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Boxing Glove",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 25,
+      "unitsInStock": 120
+    },
+    {
+      "id": 7,
+      "categoryId": 5,
+      "productName": "C#/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 30,
+      "unitsInStock": 15
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Exercise bike",
+      "quantityPerUnit": "1",
+      "unitPrice": 400,
+      "unitsInStock": 100
+    },
+    {
+      "id": 9,
+      "categoryId": 4,
+      "productName": "Police Car",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 27,
+      "unitsInStock": 29
+    },
+    {
+      "id": 10,
+      "categoryId": 4,
+      "productName": "Ambulance Car",
+      "quantityPerUnit": "1",
+      "unitPrice": 11,
+      "unitsInStock": 31
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Lego ship",
+      "quantityPerUnit": "1",
+      "unitPrice": 24,
+      "unitsInStock": 22
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Lego Helicopter",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 38,
+      "unitsInStock": 86
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "productName": "Creatine Powder",
+      "quantityPerUnit": "500 gr",
+      "unitPrice": 35,
+      "unitsInStock": 24
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "productName": "Boxing Glove",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 23.25,
+      "unitsInStock": 35
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Weight Plates",
+      "quantityPerUnit": "2x10kg",
+      "unitPrice": 44,
+      "unitsInStock": 39
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Gamer Mouse",
+      "quantityPerUnit": "1",
+      "unitPrice": 1500,
+      "unitsInStock": 29
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "productName": "Multifunctional Bench",
+      "quantityPerUnit": "1",
+      "unitPrice": 539,
+      "unitsInStock": 0
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "productName": "Dip bar",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 62.5,
+      "unitsInStock": 42
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 9.2,
+      "unitsInStock": 25
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 81,
+      "unitsInStock": 40
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 10,
+      "unitsInStock": 3
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": ".NET/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 21,
+      "unitsInStock": 104
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Angular/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 9,
+      "unitsInStock": 61
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Omega-3",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 4.5,
+      "unitsInStock": 20
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "Tv 55 inch curved",
+      "quantityPerUnit": "1",
+      "unitPrice": 1000,
+      "unitsInStock": 76
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Mobile phone",
+      "quantityPerUnit": "1",
+      "unitPrice": 129,
+      "unitsInStock": 15
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 43.9,
+      "unitsInStock": 49
+    },
+    {
+      "id": 28,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 45.6,
+      "unitsInStock": 26
+    },
+    {
+      "id": 29,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 123.79,
+      "unitsInStock": 0
+    },
+    {
+      "id": 30,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 25.89,
+      "unitsInStock": 10
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 12.5,
+      "unitsInStock": 0
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 32,
+      "unitsInStock": 9
+    },
+    {
+      "id": 33,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 2.5,
+      "unitsInStock": 112
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 14,
+      "unitsInStock": 111
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 18,
+      "unitsInStock": 20
+    },
+    {
+      "id": 36,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 19,
+      "unitsInStock": 112
+    },
+    {
+      "id": 37,
+      "categoryId": 2,
+      "productName": "Walking Pad",
+      "quantityPerUnit": "1",
+      "unitPrice": 226,
+      "unitsInStock": 11
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 263.5,
+      "unitsInStock": 17
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 18,
+      "unitsInStock": 69
+    },
+    {
+      "id": 40,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 18.4,
+      "unitsInStock": 123
+    },
+    {
+      "id": 41,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 9.65,
+      "unitsInStock": 85
+    },
+    {
+      "id": 42,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 14,
+      "unitsInStock": 26
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 46,
+      "unitsInStock": 17
+    },
+    {
+      "id": 44,
+      "categoryId": 2,
+      "productName": "Pull up bars",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 19.45,
+      "unitsInStock": 27
+    },
+    {
+      "id": 45,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 9.5,
+      "unitsInStock": 5
+    },
+    {
+      "id": 46,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 12,
+      "unitsInStock": 95
+    },
+    {
+      "id": 47,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 9.5,
+      "unitsInStock": 36
+    },
+    {
+      "id": 48,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 12.75,
+      "unitsInStock": 15
+    },
+    {
+      "id": 49,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 20,
+      "unitsInStock": 10
+    },
+    {
+      "id": 50,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 16.25,
+      "unitsInStock": 65
+    },
+    {
+      "id": 51,
+      "categoryId": 2,
+      "productName": "Sport Shoes",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 240,
+      "unitsInStock": 20
+    },
+    {
+      "id": 52,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 7,
+      "unitsInStock": 38
+    },
+    {
+      "id": 53,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 32.8,
+      "unitsInStock": 0
+    },
+    {
+      "id": 54,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 7.45,
+      "unitsInStock": 21
+    },
+    {
+      "id": 55,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 24,
+      "unitsInStock": 115
+    },
+    {
+      "id": 56,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 38,
+      "unitsInStock": 21
+    },
+    {
+      "id": 57,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 19.5,
+      "unitsInStock": 36
+    },
+    {
+      "id": 58,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 13.25,
+      "unitsInStock": 62
+    },
+    {
+      "id": 59,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 55,
+      "unitsInStock": 79
+    },
+    {
+      "id": 60,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 34,
+      "unitsInStock": 19
+    },
+    {
+      "id": 61,
+      "categoryId": 2,
+      "productName": "Baseball Kit",
+      "quantityPerUnit": "1",
+      "unitPrice": 63,
+      "unitsInStock": 113
+    },
+    {
+      "id": 62,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 49.3,
+      "unitsInStock": 17
+    },
+    {
+      "id": 63,
+      "categoryId": 2,
+      "productName": "Baseball Cap",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 43.9,
+      "unitsInStock": 24
+    },
+    {
+      "id": 64,
+      "categoryId": 5,
+      "productName": "DataScientist/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 45,
+      "unitsInStock": 22
+    },
+    {
+      "id": 65,
+      "categoryId": 2,
+      "productName": "Football Helmets",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 80,
+      "unitsInStock": 76
+    },
+    {
+      "id": 66,
+      "categoryId": 2,
+      "productName": "Boxing Glove",
+      "quantityPerUnit": "2 pieces",
+      "unitPrice": 17,
+      "unitsInStock": 4
+    },
+    {
+      "id": 67,
+      "categoryId": 1,
+      "productName": "L-Karnitin",
+      "quantityPerUnit": "500 gr",
+      "unitPrice": 140,
+      "unitsInStock": 52
+    },
+    {
+      "id": 68,
+      "categoryId": 3,
+      "productName": "Xbox",
+      "quantityPerUnit": "1",
+      "unitPrice": 1650,
+      "unitsInStock": 6
+    },
+    {
+      "id": 69,
+      "categoryId": 4,
+      "productName": "Basketball large",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 36,
+      "unitsInStock": 26
+    },
+    {
+      "id": 70,
+      "categoryId": 1,
+      "productName": "MultiVitamin",
+      "quantityPerUnit": "0.3 lt bottles",
+      "unitPrice": 15,
+      "unitsInStock": 15
+    },
+    {
+      "id": 71,
+      "categoryId": 3,
+      "productName": "PlayStation 5",
+      "quantityPerUnit": "1",
+      "unitPrice": 21.5,
+      "unitsInStock": 26
+    },
+    {
+      "id": 72,
+      "categoryId": 4,
+      "productName": "Wooden Train Set",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 53,
+      "unitsInStock": 44
+    },
+    {
+      "id": 73,
+      "categoryId": 4,
+      "productName": "Truck Leo",
+      "quantityPerUnit": "1 pieces",
+      "unitPrice": 15,
+      "unitsInStock": 101
+    },
+    {
+      "id": 74,
+      "categoryId": 5,
+      "productName": "DevOps/training",
+      "quantityPerUnit": "1 pack",
+      "unitPrice": 10,
+      "unitsInStock": 4
+    },
+    {
+      "id": 75,
+      "categoryId": 2,
+      "productName": "Z-bar",
+      "quantityPerUnit": "1",
+      "unitPrice": 7.75,
+      "unitsInStock": 125
+    },
+    {
+      "id": 76,
+      "categoryId": 2,
+      "productName": "Dumbellx5kg",
+      "quantityPerUnit": "10kg",
+      "unitPrice": 18,
+      "unitsInStock": 57
+    },
+    {
+      "id": 77,
+      "categoryId": 1,
+      "productName": "VitaminC",
+      "quantityPerUnit": "2 boxes",
+      "unitPrice": 24,
+      "unitsInStock": 32
+    },
+    {
+      "productName": "Laptop",
+      "categoryId": 3,
+      "unitPrice": "1000",
+      "quantityPerUnit": "1",
+      "unitsInStock": "2",
+      "id": 78
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Supplements",
+      "seoUrl": "supplements"
+    },
+    {
+      "id": 2,
+      "categoryName": "SportEquipments",
+      "seoUrl": "sportEquipments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Technology",
+      "seoUrl": "technology"
+    },
+  
+    {
+      "id": 4,
+      "categoryName": "Toys",
+      "seoUrl": "toys"
+    },
+    {
+      "id": 5,
+      "categoryName": "Trainings",
+      "seoUrl": "trainings"
+    }
+  ]
+}
